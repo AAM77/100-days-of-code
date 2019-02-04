@@ -15,8 +15,8 @@ May 15th, 2019.
 3. If I code for my coursework, that won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I plan to learn Python using this. I will work on code challenges and projects.
-6. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
+5. This challenge is for learning Python only. Exercises, code challenges, and real projects will count towards my progress.
+6. The time spent doing tutorials, code-alongs, online courses and other similar resources will NOT count towards this challenge.
 
 
 ## Ideas to make this challenge more effective
