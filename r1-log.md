@@ -4,10 +4,10 @@ The log of my #100DaysOfCode challenge.
 
 Started on [Monday, February 4, 2019].
 
-##Legend:
-### R1, means "Round 1." Each round consists of 100 days. Once I finish 100 days, I might want to do it again. That will be round 2.
+## Legend:
+**R1**, means "Round 1." Each round consists of 100 days. Once I finish 100 days, I might want to do it again. That will be round 2.
 
-### D stands for Day. So, D0 & D1 would be  Day 0 & Day 1. of the round. It goes up to D100, or Day 100.
+**D** stands for Day. So, D0 & D1 would be  Day 0 & Day 1. of the round. It goes up to D100, or Day 100.
 
 
 ## Log
