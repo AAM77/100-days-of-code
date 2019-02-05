@@ -17,13 +17,15 @@ So, D0 & D1 would be  Day 0 & Day 1. of the round. It goes up to D100, or Day 10
 
 ### R1D0: February 4, 2019
 
-// - In progress - // I will finish this part after 9PM EST, tonight.
 
-**Today's Progress**: Committed to the challenge. Set up a GitHub repo for tracking. Set a specific goal with a basic plan.
+**Today's Progress**: Committed to the challenge. Set up a GitHub repo for tracking. Set a specific goal with a basic plan. Wrote a blog post about it.
 
 **Thoughts:** It's a little intimidating putting myself out there, but I work best under a little pressure.
 
 **Link(s) to work Done:**
+
+Blog Post:
+https://thedeterminedcoder.com/2019/02/04/round-1-start-my-100-days-of-coding-challenge/?preview=true
 
 
 ### R1D1
