@@ -15,3 +15,14 @@ Course:
 https://www.udemy.com/complete-python-bootcamp/learn/v4/t/lecture/3421822?start=0
 
 ### Day 1: February 5, 2019
+
+**Today's Progress**:
+Got through 16 of 110 lectures of the course.
+Did some practice exercises to familiarize myself with the concepts.
+
+
+**Thoughts:**
+I wanted to practice with real challenges, but I need to familiarize myself until I cover all of the fundamentals. So, begrudgingly forgiving myself for not practicing real challenges until I get through the fundamentals.
+
+**Link(s) to Work:**
+GitHub: 
