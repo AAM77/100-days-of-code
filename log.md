@@ -25,4 +25,5 @@ Did some practice exercises to familiarize myself with the concepts.
 I wanted to practice with real challenges, but I need to familiarize myself until I cover all of the fundamentals. So, begrudgingly forgiving myself for not practicing real challenges until I get through the fundamentals.
 
 **Link(s) to Work:**
-GitHub: 
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code
