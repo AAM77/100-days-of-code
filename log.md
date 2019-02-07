@@ -27,3 +27,17 @@ I wanted to practice with real challenges, but I need to familiarize myself unti
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code
+
+
+### Day 2: February 6, 2019
+
+**Today's Progress**:
+Got through five more lectures. Now on lecture 22 of 110 course lectures. Coded along and completed exercises and quizzes to test my knowledge. Practiced several examples on my own as well.
+
+
+**Thoughts:**
+I completed fewer lessons than yesterday, so I'm a little bummed about that. In all fairness, though, these lessons were longer and I kept stopping to practice the material.
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code
