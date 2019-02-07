@@ -43,7 +43,7 @@ I wanted to practice with real challenges, but I need to familiarize myself unti
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code
+https://github.com/AAM77/100-days-of-code/blob/master/round%201%20code/r1d1_practice.py
 
 
 
@@ -58,4 +58,4 @@ I completed fewer lessons than yesterday, so I'm a little bummed about that. In 
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code
+https://github.com/AAM77/100-days-of-code/blob/master/round%201%20code/r1d2_practice.py
