@@ -43,6 +43,7 @@ I wanted to practice with real challenges, but I need to familiarize myself unti
 
 **Link(s) to Work:**
 GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d1_files
 
 
 ### R1D2: February 6, 2019
@@ -56,6 +57,7 @@ I completed fewer lessons than yesterday, so I'm a little bummed about that. In 
 
 **Link(s) to Work:**
 GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d2_files
 
 
 ### R1D3: February 7, 2019
@@ -69,3 +71,4 @@ Getting there. Getting there. I need to keep reminding myself that I'm still mak
 
 **Link(s) to Work:**
 GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d3_files
