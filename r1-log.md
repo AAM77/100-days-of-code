@@ -43,8 +43,6 @@ I wanted to practice with real challenges, but I need to familiarize myself unti
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/blob/master/round%201%20code/r1d1_practice.py
-
 
 
 ### R1D2: February 6, 2019
@@ -58,4 +56,16 @@ I completed fewer lessons than yesterday, so I'm a little bummed about that. In 
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/blob/master/round%201%20code/r1d2_practice.py
+
+
+### R1D3: February 7, 2019
+
+**Today's Progress**:
+Completed six more lectures today. On 29 of 110 now. learned about tuples, which I hadn't encountered before. Also learned about file input and output using Python. Cool stuff : ). Spent time practicing the concepts on my own.
+
+
+**Thoughts:**
+Getting there. Getting there. I need to keep reminding myself that I'm still making progress no matter how slow it might seem.
+
+**Link(s) to Work:**
+GitHub:

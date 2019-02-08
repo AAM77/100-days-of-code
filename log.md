@@ -41,3 +41,16 @@ I completed fewer lessons than yesterday, so I'm a little bummed about that. In 
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code
+
+
+### Day 3: February 7, 2019
+
+**Today's Progress**:
+Completed six more lectures today. On 29 of 110 now. learned about tuples, which I hadn't encountered before. Also learned about file input and output using Python. Cool stuff : ). Spent time practicing the concepts on my own.
+
+
+**Thoughts:**
+Getting there. Getting there. I need to keep reminding myself that I'm still making progress no matter how slow it might seem.
+
+**Link(s) to Work:**
+GitHub:
