@@ -67,3 +67,16 @@ Finally getting to the fun stuff! I might be able to make start working on chall
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d4_files
+
+### Day 5: February 9, 2019
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d5_files
