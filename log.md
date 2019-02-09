@@ -54,3 +54,16 @@ Getting there. Getting there. I need to keep reminding myself that I'm still mak
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d3_files
+
+### Day 4: February 8, 2019
+
+**Today's Progress**:
+Made it through seven lectures today. On 36 of 110 now. Reviewed the previous material and took a self-assessment test. Then, learned how control flow & loops (for & while) work in Python.
+
+
+**Thoughts:**
+Finally getting to the fun stuff! I might be able to make start working on challenges soon! Can't wait. : )
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d4_files
