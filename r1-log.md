@@ -89,11 +89,10 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d4_file
 ### R1D5: February 9, 2019
 
 **Today's Progress**:
-
-
+Only two lectures today, but they were packed. On 38/110 now. Learned about range, enumerate, and zip. Also learned how to accept user input, import libraries, and how to use 'in', min, & max. Oh, and list comprehensions. Decided to spend the time practicing these before moving on.
 
 **Thoughts:**
-
+Phew! Lots of new stuff! I'm going to have to spend more time practicing this tonight so I can take the assessment test tomorrow!
 
 **Link(s) to Work:**
 GitHub:
