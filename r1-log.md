@@ -116,10 +116,14 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d6_file
 ### R1D7: February 11, 2019
 
 **Today's Progress**:
-Still working on it. Learned about and practiced a bit with *args & **kwargs.
+- Finished 6 lectures. On 55/110 now.
+- Learned & practiced a bit with *args & **kwargs.
+- Learned & practiced map, filter, & lambdas
+- Completed coding challenges in Python
+- A couple of lessons away from the milestone project.
 
 **Thoughts:**
-Let's see how the night unfolds
+Ych. I spent a lot of time on a coding challenge today. Not happy about that, but I did learn important stuff.
 
 **Link(s) to Work:**
 GitHub:
