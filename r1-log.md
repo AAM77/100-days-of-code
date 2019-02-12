@@ -97,3 +97,30 @@ Phew! Lots of new stuff! I'm going to have to spend more time practicing this to
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d5_files
+
+### R1D6: February 10, 2019
+
+**Today's Progress**:
+Round 1, Day 6: A busy day today. 11 lectures down. On 49/110 now.
+- spent hours practicing the concepts I've learned up until now
+- learned about and practiced functions & methods in Python
+- approaching the milestone project soon
+
+**Thoughts:**
+Wow, functions! Finally. Let's see how well I do. This white space stuff makes me a little nervous because it can be so easy to overlook
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d6_files
+
+### R1D7: February 11, 2019
+
+**Today's Progress**:
+Still working on it. Learned about and practiced a bit with *args & **kwargs.
+
+**Thoughts:**
+Let's see how the night unfolds
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d7_files
