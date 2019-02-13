@@ -113,3 +113,17 @@ Ych. I spent a lot of time on a coding challenge today. Not happy about that, bu
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d7_files
+
+### Day 8: February 12, 2019
+
+**Today's Progress**:
+- Started the tic-tac-toe milestone project
+- Completed coding challenges on Codewars & HackerRank
+- Started studying interview questions
+
+**Thoughts:**
+I had a really late start, so I didn't get to accomplish as much as I hoped.
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d8_files
