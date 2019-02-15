@@ -127,3 +127,36 @@ I had a really late start, so I didn't get to accomplish as much as I hoped.
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d8_files
+
+### Day 9: February 13, 2019
+
+**Today's Progress**:
+- Started the tic-tac-toe milestone project
+- Completed coding challenges on Codewars & HackerRank
+- Started studying interview questions
+
+**Thoughts:**
+I had a really late start, so I didn't get to accomplish as much as I hoped.
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d9_files
+
+
+### Day 10: February 14, 2019
+
+**Today's Progress**:
+- Added some functions to the tic-tac-toe project:
+- greet, print logo, print board
+- asks user input for X or O, asks user input for position
+- assigned player 1 and player 2 based on input
+- update function for board
+- tested in isolation to make sure each function works as intended
+- completed coding challenges
+
+**Thoughts:**
+I got a decent bit done in just a couple of hours. Not bad.
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d10_files
