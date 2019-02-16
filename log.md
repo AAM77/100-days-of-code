@@ -160,3 +160,33 @@ I got a decent bit done in just a couple of hours. Not bad.
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d10_files
+
+### Day 11: February 15, 2019
+**Today's Progress**:
+- Got home late, so not much done
+- Added more functions to the tic-tac-toe project:
+- tracks if current player is 'X' or 'O'
+- tracks turns taken
+- laid out a plan for the next few functions I need to add
+
+- tested functions
+
+**Thoughts:**
+Sigh. I wish I could have gotten more done. Well, something is better than nothing.
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d11_files
+
+### Day 12: February 16, 2019
+**Today's Progress**:
+- Woke up and made good progress on tic-tac-toe
+- Got it sort of working.
+- I refactored it, though. Need to test out the refactored code.
+
+**Thoughts:**
+I think I made good progress, but I was in a rush to get some coding in today, so I forgot to make regular commits and test code. smh. Trying to sort it all out afterwards is going to take up more time than it would have if I had just gone step-by-step. Sigh. Learning form my mistake and move forward.
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d12_files
