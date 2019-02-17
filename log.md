@@ -26,7 +26,7 @@ I wanted to practice with real challenges, but I need to familiarize myself unti
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d1_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d01_files
 
 
 ### Day 2: February 6, 2019
@@ -39,7 +39,7 @@ Got through five more lectures. Now on lecture 22 of 110 course lectures. Coded 
 I completed fewer lessons than yesterday, so I'm a little bummed about that. In all fairness, though, these lessons were longer and I kept stopping to practice the material.
 
 **Link(s) to Work:**
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d2_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d02_files
 
 
 ### Day 3: February 7, 2019
@@ -53,7 +53,7 @@ Getting there. Getting there. I need to keep reminding myself that I'm still mak
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d3_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d03_files
 
 ### Day 4: February 8, 2019
 
@@ -66,7 +66,7 @@ Finally getting to the fun stuff! I might be able to make start working on chall
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d4_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d04_files
 
 ### Day 5: February 9, 2019
 
@@ -78,7 +78,7 @@ Phew! Lots of new stuff! I'm going to have to spend more time practicing this to
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d5_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d05_files
 
 
 ### Day 6: February 10, 2019
@@ -94,7 +94,7 @@ Wow, functions! Finally. Let's see how well I do. This white space stuff makes m
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d6_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d06_files
 
 ### Day 7: February 11, 2019
 
@@ -112,7 +112,7 @@ Ych. I spent a lot of time on a coding challenge today. Not happy about that, bu
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d7_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d07_files
 
 ### Day 8: February 12, 2019
 
@@ -126,7 +126,7 @@ I had a really late start, so I didn't get to accomplish as much as I hoped.
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d8_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d08_files
 
 ### Day 9: February 13, 2019
 
@@ -140,7 +140,7 @@ I had a really late start, so I didn't get to accomplish as much as I hoped.
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d9_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d09_files
 
 
 ### Day 10: February 14, 2019
@@ -159,7 +159,7 @@ I got a decent bit done in just a couple of hours. Not bad.
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d10_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d010_files
 
 ### Day 11: February 15, 2019
 **Today's Progress**:
@@ -176,7 +176,7 @@ Sigh. I wish I could have gotten more done. Well, something is better than nothi
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d11_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d011_files
 
 ### Day 12: February 16, 2019
 **Today's Progress**:
@@ -189,4 +189,4 @@ I think I made good progress, but I was in a rush to get some coding in today, s
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d12_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d012_files
