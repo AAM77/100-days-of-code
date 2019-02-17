@@ -17,7 +17,6 @@ So, D0 & D1 would be  Day 0 & Day 1. of the round. It goes up to D100, or Day 10
 
 ### R1D0: February 4, 2019
 
-
 **Today's Progress**: Committed to the challenge. Set up a GitHub repo for tracking. Set a specific goal with a basic plan. Wrote a blog post about it. Found a course on Udemy that also includes quizzes, challenges, and major projects that I can work on to upload to GitHub.
 
 **Thoughts:** It's a little intimidating putting myself out there, but I work best under a little pressure.
@@ -37,7 +36,6 @@ https://www.udemy.com/complete-python-bootcamp/learn/v4/t/lecture/3421822?start=
 Got through 16 of 110 lectures of the course.
 Did some practice exercises to familiarize myself with the concepts.
 
-
 **Thoughts:**
 I wanted to practice with real challenges, but I need to familiarize myself until I cover all of the fundamentals. So, begrudgingly forgiving myself for not practicing real challenges until I get through the fundamentals.
 
@@ -50,7 +48,6 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d01_fil
 
 **Today's Progress**:
 Got through five more lectures. Now on lecture 22 of 110 course lectures. Coded along and completed exercises and quizzes to test my knowledge. Practiced several examples on my own as well.
-
 
 **Thoughts:**
 I completed fewer lessons than yesterday, so I'm a little bummed about that. In all fairness, though, these lessons were longer and I kept stopping to practice the material.
@@ -65,7 +62,6 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d02_fil
 **Today's Progress**:
 Completed six more lectures today. On 29 of 110 now. learned about tuples, which I hadn't encountered before. Also learned about file input and output using Python. Cool stuff : ). Spent time practicing the concepts on my own.
 
-
 **Thoughts:**
 Getting there. Getting there. I need to keep reminding myself that I'm still making progress no matter how slow it might seem.
 
@@ -73,11 +69,11 @@ Getting there. Getting there. I need to keep reminding myself that I'm still mak
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d03_files
 
+
 ### R1D4: February 8, 2019
 
 **Today's Progress**:
 Made it through seven lectures today. On 36 of 110 now. Reviewed the previous material and took a self-assessment test. Then, learned how control flow & loops (for & while) work in Python.
-
 
 **Thoughts:**
 Finally getting to the fun stuff! I might be able to make start working on challenges soon! Can't wait. : )
@@ -85,6 +81,7 @@ Finally getting to the fun stuff! I might be able to make start working on chall
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d04_files
+
 
 ### R1D5: February 9, 2019
 
@@ -97,6 +94,7 @@ Phew! Lots of new stuff! I'm going to have to spend more time practicing this to
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d05_files
+
 
 ### R1D6: February 10, 2019
 
@@ -112,6 +110,7 @@ Wow, functions! Finally. Let's see how well I do. This white space stuff makes m
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d06_files
+
 
 ### R1D7: February 11, 2019
 
@@ -129,6 +128,7 @@ Ych. I spent a lot of time on a coding challenge today. Not happy about that, bu
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d07_files
 
+
 ### R1D8: February 12, 2019
 
 **Today's Progress**:
@@ -142,6 +142,7 @@ I had a really late start, so I didn't get to accomplish as much as I hoped.
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d08_files
+
 
 ### R1D9: February 13, 2019
 
@@ -194,6 +195,7 @@ Sigh. I wish I could have gotten more done. Well, something is better than nothi
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d011_files
+
 
 ### R1D12: February 16, 2019
 **Today's Progress**:
