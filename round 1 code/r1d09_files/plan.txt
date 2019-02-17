@@ -1,0 +1,33 @@
+ ------------------
+| Bare Bones Plan: |
+ ------------------
+
+What do I want to happen?
+
+1. User is greeted with an introductory screen
+
+2. Asks user if s/he wants to be X or O
+
+3. Assigns players
+
+4. Prints an empty board
+
+5. Asks user to choose a position (asks user for input)
+
+6. When user chooses input, places the value in position and reprints the board
+
+7. tracks turn
+
+8. Until the last turn and the game board is filled:
+
+9. Checks every turn if there are any winning combinations
+
+11. if not last turn:
+    - if winning combo, declare winner
+    - if no winning combo, ask next player for input
+
+  if last turn:
+    - if winning combo, declare winner
+    - if no winning combo, declare tie
+
+If tie or winning combo, ask player if s/he wants to (y) repeat game or (n) end it.

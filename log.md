@@ -159,7 +159,7 @@ I got a decent bit done in just a couple of hours. Not bad.
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d010_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d10_files
 
 ### Day 11: February 15, 2019
 **Today's Progress**:
@@ -176,7 +176,7 @@ Sigh. I wish I could have gotten more done. Well, something is better than nothi
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d011_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d11_files
 
 ### Day 12: February 16, 2019
 **Today's Progress**:
@@ -189,4 +189,4 @@ I think I made good progress, but I was in a rush to get some coding in today, s
 
 **Link(s) to Work:**
 GitHub:
-https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d012_files
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d12_files
