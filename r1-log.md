@@ -209,3 +209,19 @@ I think I made good progress, but I was in a rush to get some coding in today, s
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d12_files
+
+
+### R1D13: February 17, 2019
+**Today's Progress**:
+- Made good progress with tic-tac-toe game
+- It works!... with a 2 minor quirks and 1 major
+- Will fix those tomorrow.
+- Completed a couple of coding challenges using Python, Ruby, & JS
+
+
+**Thoughts:**
+Part of me wants to fix these issues today, but I know I'll feel down about not continuing to make progress on my review of the Flatiron curriculum's material.
+
+**Link(s) to Work:**
+GitHub:
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d13_files
