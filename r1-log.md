@@ -225,3 +225,21 @@ Part of me wants to fix these issues today, but I know I'll feel down about not 
 **Link(s) to Work:**
 GitHub:
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d13_files
+
+
+### R1D14: February 18, 2019
+**Today's Progress**:
+- Finished building a basic two-player tic-tac-toe
+- Repo link: https://github.com/AAM77/Tic_Tac_Toe_in_Python
+- I'll introduce AI in a new repo once I learn more Python.
+- Object Oriented Python up next.
+- Completed a couple of challenges using Ruby, JS, and Python.
+
+**Thoughts:**
+Phew. It's done. Well, at least to the point where I am satisfied enough to move on. I took more than a few days, but I wasn't spending more than an hour or two per day on it. From that perspective, it isn't such bad progress.
+
+**Link(s) to Work:**
+GitHub:
+Main Repo: https://github.com/AAM77/Tic_Tac_Toe_in_Python
+
+Location within 100DaysCode repo: https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d14_files
