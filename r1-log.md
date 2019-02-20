@@ -243,3 +243,16 @@ GitHub:
 Main Repo: https://github.com/AAM77/Tic_Tac_Toe_in_Python
 
 Location within 100DaysCode repo: https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d14_files
+
+### R1D15: February 19, 2019
+**Today's Progress**:
+- Continuing progress of lectures
+- Completed 6 lectures. On 62/110 now.
+- Studied object orientation in Python 3
+- Completed a few coding challenges
+
+**Thoughts:**
+Wow. I made it to Python's object orientation section. It seriously improved my understanding of the 'self' keyword. Ruby kept a lot of things hidden so it seemed like 'magic', but Python seems to keep many things out in the open. This really helps clarify things because I know what I'm doing and why I'm doing it. It also provides at least some sort of glimpse as to what is happening in the background.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d15_files
