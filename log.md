@@ -254,9 +254,10 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d16_fil
 ### Day 17: February 21, 2019
 **Today's Progress**:
 - Completed several coding challenges using Ruby, JS, and Python
-- About to start studying the lectures on class inheritance and polymorphism
+- Studied lecture on inheritance and polymorphism
 
 **Thoughts:**
+Annoyed. I didn't get nearly as much done as I wanted. Frustrated. Spent yesterday running running errands instead of coding. Running behind on my main goal of completing the Flatiron curriculum.
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d17_files
