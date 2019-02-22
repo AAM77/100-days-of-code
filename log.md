@@ -261,3 +261,19 @@ Annoyed. I didn't get nearly as much done as I wanted. Frustrated. Spent yesterd
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d17_files
+
+### Day 18: February 22, 2019
+**Today's Progress**:
+- More Python 3 OOP
+- Finished 8 lectures. One 71/110
+- Learned:
+    - inheritance & polymorphism
+    - how implement modules & packages
+    - what if __init__ == "__main__" is for and how to use it
+    - Practiced what I learned
+
+**Thoughts:**
+Better progress than yesterday. I'm glad I switched to mornings for Python. It'll give me a chance to work on the challenge, get it out of the way, and then get to working on the Flatiron curriculum review.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d18_files

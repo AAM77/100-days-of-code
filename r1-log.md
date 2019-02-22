@@ -257,7 +257,7 @@ Wow. I made it to Python's object orientation section. It seriously improved my 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d15_files
 
-### Day 16: February 20, 2019
+### R1D16: February 20, 2019
 **Today's Progress**:
 - Completed several coding challenges using Ruby, JS, and Python
 
@@ -270,12 +270,29 @@ I was also coding everything online, so I still need to add the problems and my 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d16_files
 
-### Day 17: February 21, 2019
+### R1D17: February 21, 2019
 **Today's Progress**:
 - Completed several coding challenges using Ruby, JS, and Python
-- About to start studying the lectures on class inheritance and polymorphism
+- Studied lecture on inheritance and polymorphism
 
 **Thoughts:**
+Annoyed. I didn't get nearly as much done as I wanted. Frustrated. Spent yesterday running running errands instead of coding. Running behind on my main goal of completing the Flatiron curriculum.
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d17_files
+
+### R1D18: February 22, 2019
+**Today's Progress**:
+- More Python 3 OOP
+- Finished 8 lectures. One 71/110
+- Learned:
+    - inheritance & polymorphism
+    - how implement modules & packages
+    - what if __init__ == "__main__" is for and how to use it
+    - Practiced what I learned
+
+**Thoughts:**
+Better progress than yesterday. I'm glad I switched to mornings for Python. It'll give me a chance to work on the challenge, get it out of the way, and then get to working on the Flatiron curriculum review.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d18_files
