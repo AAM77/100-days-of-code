@@ -270,7 +270,7 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d17_fil
     - inheritance & polymorphism
     - how implement modules & packages
     - what if __init__ == "__main__" is for and how to use it
-    - Practiced what I learned
+- Practiced what I learned
 
 **Thoughts:**
 Better progress than yesterday. I'm glad I switched to mornings for Python. It'll give me a chance to work on the challenge, get it out of the way, and then get to working on the Flatiron curriculum review.
