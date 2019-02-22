@@ -237,3 +237,26 @@ Wow. I made it to Python's object orientation section. It seriously improved my 
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d15_files
+
+### Day 16: February 20, 2019
+**Today's Progress**:
+- Completed several coding challenges using Ruby, JS, and Python
+
+**Thoughts:**
+I was feeling in the mood to work on my coding skills with all three languages, so I decided to do each coding challenge using all three languages.
+
+I fell asleep coding, though, so I didn't get to post it in a timely manner.
+I was also coding everything online, so I still need to add the problems and my solutions to a separate file.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d16_files
+
+### Day 17: February 21, 2019
+**Today's Progress**:
+- Completed several coding challenges using Ruby, JS, and Python
+- About to start studying the lectures on class inheritance and polymorphism
+
+**Thoughts:**
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d17_files
