@@ -296,3 +296,47 @@ Better progress than yesterday. I'm glad I switched to mornings for Python. It'l
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d18_files
+
+### R1D19: February 23, 2019
+**Today's Progress**:
+- Attending TCNJ's Hackathon
+- Coded all day
+- Using this as an opportunity to user everything I've learned so far in Python
+
+**Thoughts:**
+Hackathons are intense! Loving it!
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d19_files
+
+Note: committing to a private repository, so this will not link to any files.
+
+### R1D20: February 24, 2019
+**Today's Progress**:
+- Attended the 24-hour hackathon at TCNJ. Finished coding around 12:30pm.
+- Learned some Django and learned about Flask
+
+
+**Thoughts:**
+Feeling sad that the hackathon is over.
+I really enjoyed it. Unfortunately, I can't attend other hackathons because I'm not a student :(.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d20_files
+
+Note: committing to a private repository, so this will not link to any files.
+
+### R1D21: February 25, 2019
+**Today's Progress**:
+- Continuing lessons to refine and practice my knowledge of Python 3. Potentially learn something new.
+
+- 1 lesson in Python course today:
+on 72/110 now.
+
+- Learned about errors and exception handling using 'try', 'except', and 'finally'.
+
+**Thoughts:**
+I want to attend more hackathons, but most of them list being a student as a requirement. What a bummer. Annoyed.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d21_files
