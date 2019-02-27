@@ -326,7 +326,7 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d20_fil
 
 Note: committing to a private repository, so this will not link to any files.
 
-### R1D21: February 25, 2019
+### R1D22: February 26, 2019
 **Today's Progress**:
 - Continuing lessons to refine and practice my knowledge of Python 3. Potentially learn something new.
 
@@ -342,3 +342,18 @@ I want to attend more hackathons, but most of them list being a student as a req
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d21_files
+
+### R1D22: February 27, 2019
+**Today's Progress**:
+
+- # lectures done today. Now, 77/110
+- Started the second milestone project today.
+
+- Planning phase.
+
+
+**Thoughts:**
+Just trying to catch up with everything I need to do.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d22_files
