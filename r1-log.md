@@ -330,10 +330,12 @@ Note: committing to a private repository, so this will not link to any files.
 **Today's Progress**:
 - Continuing lessons to refine and practice my knowledge of Python 3. Potentially learn something new.
 
-- 1 lesson in Python course today:
-on 72/110 now.
+- 5 lessons in Python course today:
+on 76/110 now.
 
 - Learned about errors and exception handling using 'try', 'except', and 'finally'.
+- Learned about pylint and unittesting
+- next course project coming up!
 
 **Thoughts:**
 I want to attend more hackathons, but most of them list being a student as a requirement. What a bummer. Annoyed.
