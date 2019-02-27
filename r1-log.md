@@ -346,10 +346,10 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d21_fil
 ### R1D22: February 27, 2019
 **Today's Progress**:
 
-- # lectures done today. Now, 77/110
-- Started the second milestone project today.
-
-- Planning phase.
+- One lesson today. On 77/110 now.
+- Started the second milestone project: build a blackjack game in Python
+- Planned out the game setup; will begin coding for it tomorrow.
+- Completed coding challenges.
 
 
 **Thoughts:**
@@ -357,3 +357,11 @@ Just trying to catch up with everything I need to do.
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d22_files
+
+### Day 23: February 28, 2019
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d23_files
