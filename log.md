@@ -340,8 +340,27 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d22_fil
 
 ### Day 23: February 28, 2019
 **Today's Progress**:
+- Worked on the Python project for a little over an hour.
+- Created methods in the player and game classes of the Black Jack project.
+-  Got wrapped up in troubleshooting JS code for a different project and lost track of time.
+
 
 **Thoughts:**
+Ugh. Ajax just wasn't working for me today.
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d23_files
+
+### Day 24: March 1, 2019
+**Today's Progress**:
+- One of those love-hate days.
+- Coded all day, but ran into hurdles
+- Methods for the Black Jack game refused to play nice with one another
+- Had trouble with JS in a different project, again, but learned new techniques.
+
+
+**Thoughts:**
+Annoyed about Ajax, but I think there is just something wrong with the files in the folder. Oh, and I have mixed feelings about codelab, but that might just be because I don't know how to use it properly.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d24_files
