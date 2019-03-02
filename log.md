@@ -364,3 +364,18 @@ Annoyed about Ajax, but I think there is just something wrong with the files in 
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d24_files
+
+### Day 25: March 2, 2019
+**Today's Progress**:
+- Made progress on Black Jack in Python
+- Added pseudocode for methods I need
+-
+
+#100DaysOfCode
+
+
+**Thoughts:**
+None. I don't want to think. I just want to get things done.
+
+**Link(s) to Work:**
+https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d25_files
