@@ -367,11 +367,10 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d24_fil
 
 ### Day 25: March 2, 2019
 **Today's Progress**:
-- Made progress on Black Jack in Python
-- Added pseudocode for methods I need
--
+- Added code for a couple of methods for the BlackJack game (Python)
+- Wrote pseudocode for several others
 
-#100DaysOfCode
+- Have to work on a project that uses Rails & JS, so spent most of my time today reviewing Rails & its asset pipeline.
 
 
 **Thoughts:**
