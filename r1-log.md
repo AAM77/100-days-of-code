@@ -398,3 +398,76 @@ None. I don't want to think. I just want to get things done.
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d25_files
+
+### R1D26: March 3, 2019
+**Today's Progress**:
+- Added more methods for the Black Jack game, but spent most of these two days:
+- (1) watching Rails & JS videos.
+- (2) reviewing/playing with jquery
+
+
+**Thoughts:**
+Just focused on getting stuff done.
+
+**Link(s) to Work:**
+Check my GitHub Commit History
+Some work is Private
+
+### R1D27: March 4, 2019
+**Today's Progress**:
+- Added more methods for the Black Jack game, but spent most of these two days:
+- (1) watching Rails & JS videos.
+- (2) reviewing/playing with jquery
+
+
+**Thoughts:**
+Just focused on getting stuff done.
+
+**Link(s) to Work:**
+Check my GitHub Commit History
+Some work is Private
+
+### R1D28: March 5, 2019
+**Today's Progress**:
+- Worked on the Black Jack game (Python) for a little over an hour
+- Practiced coding in AJAX & Rails for most of the day
+- Tested out different gems for working with APIs
+- Played around with some errors. Beat them at their own game.
+
+**Thoughts:**
+Just focused on getting stuff done.
+
+**Link(s) to Work:**
+Check my GitHub Commit History
+Some work is Private
+
+### R1D29: March 6, 2019
+**Today's Progress**:
+- Coding challenges/study group
+- Checked if the new methods play nice in the Python Black Jack Game
+- Played with tuple & dictionary methods in an attempt to implement a feature
+
+- Focused mostly on Rails & AJAX: learning to build APIs
+
+**Thoughts:**
+Just focused on getting stuff done.
+
+**Link(s) to Work:**
+Check my GitHub Commit History
+Some work is Private
+
+### R1D30: March 7, 2019
+**Today's Progress**:
+- zZz-ed last night before tweeting
+
+- Checked if the new methods play nice in the Python Black Jack Game
+- Played with tuple & dictionary methods in an attempt to implement a feature
+
+- Focused mostly on Rails & AJAX: learning to build APIs
+
+**Thoughts:**
+Just focused on getting stuff done.
+
+**Link(s) to Work:**
+Check my GitHub Commit History
+Some work is Private
