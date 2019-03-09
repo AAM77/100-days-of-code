@@ -471,3 +471,17 @@ Just focused on getting stuff done.
 **Link(s) to Work:**
 Check my GitHub Commit History
 Some work is Private
+
+### R1D31: March 8, 2019
+**Today's Progress**:
+- (Python) Made great progress on my Blackjack game today. It's time to start bringing it all together into a cohesive something. :)
+
+- (Rails & AJAX) Learned more about building APIs and spent a few hours playing around with what I learned.
+
+**Thoughts**:
+I wish I hadn't run into the issue with the local environment. Two hours troubleshooting. Smh.
+
+**Link(s) to Work**:
+https://github.com/learn-co-students/returning-string-data-v-000
+<br />
+https://github.com/AAM77/black_jack_python
