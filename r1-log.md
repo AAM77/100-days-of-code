@@ -485,3 +485,29 @@ I wish I hadn't run into the issue with the local environment. Two hours trouble
 https://github.com/learn-co-students/returning-string-data-v-000
 <br />
 https://github.com/AAM77/black_jack_python
+
+### R1D32: March 9, 2019
+**Today's Progress**:
+Coded all day. Worked on building APIs: Got through 7 lessons. Taking a short break from the Python blackjack game.  
+
+### R1D33: March 10, 2019
+**Today's Progress**:
+- Coded all day
+- Completed 3 lessons on building APIs
+- Ran into some hiccups, knots, bugs, and headaches while figuring out how to build a tic-tac-toe app using my knowledge of Rails, Ajax, & APIs
+-  Will keep at it tomorrow
+
+### R1D34: March 11, 2019
+**Today's Progress**:
+- More interactive browser tic-tac-toe via Rails, Ajax, & my knowledge of building APIs.
+- Encountered bumps in the road, but I managed to flatten out most of them!
+- Code Challenges / Study Group
+- Had to cut coding short today b/c of work
+
+### R1D35: March 13, 2019
+**Today's Progress**:
+- Had stuff to do for work yesterday and most of today
+
+- Completed several code Challenges
+- Hosted an online study group
+- Getting back on the coding horse tomorrow to work on the interactive browser based tic-tac-toe game
