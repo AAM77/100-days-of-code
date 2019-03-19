@@ -494,3 +494,33 @@ Coded all day. Worked on building APIs: Got through 7 lessons. Taking a short br
 - Completed several code Challenges
 - Hosted an online study group
 - Getting back on the coding horse tomorrow to work on the interactive browser based tic-tac-toe game
+
+### Day 36: March 14, 2019
+**Today's Progress**:
+- Worked on the Rails & Ajax browser tic-tac-toe for most of the day
+- Got caught in weeds & brambles, but managed to cut many down to size.
+- So close to getting this working: maybe tomorrow will be the day.
+
+### Day 37: March 15, 2019
+**Today's Progress**:
+- Coded all day, but the Sandman got me before I could post here. Dreamt I was still coding.
+- It was supposed to be the "day," but 3 (of 40) tests won't pass for the browser tic-tac-toe even though everything works as expected
+- Jumping back in!
+
+### Day 38: March 16, 2019
+**Today's Progress**:
+- Weary, but whole, I have emerged victorious from my battle.
+- The tic-tac-toe beast has been bested and its tests extinguished.
+- Onward to the next challenge!
+- Onward I say!
+
+### Day 39: March 18, 2019
+**Today's Progress**:
+- No code Yesterday:
+Planned the next stage of one of my projects. Ran errands. Worked.
+
+Today:
+- Wrangled several code challenges for 4 - 5 hours to exercise my brain.
+- Hosted a coding study group.
+
+- Returning to the world of code tomorrow!
